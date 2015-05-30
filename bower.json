@@ -2,7 +2,7 @@
   "name": "petrvitasek.eu",  
   "version": "0.0.1",
   "description": "Web profile for another human being",
-  "homepage": "https://github.com/empvision777/petrvitasek.eu"
+  "homepage": "https://github.com/empvision777/petrvitasek.eu",
   "license": "MIT",
   "private": true,
   "dependencies": {
